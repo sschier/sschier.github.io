@@ -1,6 +1,6 @@
 
 ___
-#### Sheena Calie Schier, Ph.D.
+# Sheena Calie Schier, Ph.D.
 
 *Data Scientist / Physicist*
 
@@ -10,13 +10,13 @@ ___
 I'm Sheena Schier, a former graduate student researcher at the [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
 and member of the [ATLAS collaboration](https://atlas.cern/) at [CERN](http://home.cern/).
 
-## Contact
+### Contact
 
 email: sheena.schier@gmail.com
 
 cell: 831-421-1608
 
-## Professional Web Presence
+### Professional Web Presence
 
 [github.com/sschier](https://github.com/sschier)
 
