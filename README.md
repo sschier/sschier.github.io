@@ -1,4 +1,7 @@
-## sschier.github.io
 
-sschier's webspace on github
+___
+## Sheena Calie Schier, Ph.D.
+
+*Data Scientist / Physicist*
+____
 
